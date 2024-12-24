@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&gt;&gt;Tech Dani&lt;&lt;</title>
-    <link>https://techdani101.github.io/</link>
-    <description>Recent content on &gt;&gt;Tech Dani&lt;&lt;</description>
+    <title>&lt;&lt;Tech Dani&gt;&gt;</title>
+    <link>https://danitech.github.io/</link>
+    <description>Recent content on &lt;&lt;Tech Dani&gt;&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techdani101.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://techdani101.github.io/about/</link>
-      <pubDate>Tue, 24 Dec 2024 13:27:46 +0300</pubDate>
-      
-      <guid>https://techdani101.github.io/about/</guid>
-      <description>&amp;hellip;</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://danitech.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
